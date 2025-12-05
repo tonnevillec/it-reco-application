@@ -1,0 +1,3 @@
+# Increase PHP limits for large uploads
+php_value post_max_size 64M
+php_value upload_max_filesize 64M
